@@ -1,0 +1,40 @@
+PRODUCT : product_id, name,description,picture,price, rate, status, brand_id, category_id, type_id
+TYPE : type_id, name, footer_order
+BRAND : brand_id, name, footer_order
+CATEGORY : category_id, name, subtitle, picture, home_order
+
+
+MOCODO APO
+PRODUCT : code, name, price
+QUOTED_BY , 0N CUSTOMER,0N PRODUCT : code,amount, publishing_date,validated
+CUSTOMER : code, firstname,lastname, address, town, phone
+ORDER_TRACKING : code, validated_date,delivery_date,isDelivered, USER
+USER : code, pseudo, password, email
+
+
+PRODUCT : code, name, price
+
+QUOTED_BY1,0N CUSTOMER,0N PRODUCT : code,amount, publishing_date,validated
+
+QUOTED_BY2,0N USER 
+
+CUSTOMER : code, firstname,lastname, address, town, phone
+
+USER : code, pseudo, password, email
+
+AYANT-DROIT: nom ayant-droit, lien
+DIRIGER, 0N [responsable] EMPLOYÉ, 01 PROJET
+REQUÉRIR, 1N PROJET, 0N PIÈCE: qté requise
+PIÈCE: réf. pièce, libellé pièce
+COMPOSER, 0N [composée] PIÈCE, 0N [composante] PIÈCE: quantité
+
+DF, _11 AYANT-DROIT, 0N EMPLOYÉ
+EMPLOYÉ: matricule, nom employé
+PROJET: num. projet, nom projet
+FOURNIR, 1N PROJET, 1N PIÈCE, 1N SOCIÉTÉ: qté fournie
+
+DÉPARTEMENT: num. département, nom département
+EMPLOYER, 11 EMPLOYÉ, 1N DÉPARTEMENT
+TRAVAILLER, 0N EMPLOYÉ, 1N PROJET
+SOCIÉTÉ: num. société, raison sociale
+CONTRÔLER, 0N< [mère] SOCIÉTÉ, 01 [filiale] SOCIÉTÉ

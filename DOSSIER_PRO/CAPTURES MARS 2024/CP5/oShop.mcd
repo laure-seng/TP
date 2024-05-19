@@ -1,0 +1,14 @@
+:
+:
+:
+BRAND: _name
+
+TYPE: _name
+is a, 0N TYPE, 11 PRODUCT
+PRODUCT: _code, name, description, picture, price, rate, status
+made, 0N BRAND, 11 PRODUCT
+
+:
+:
+is tagged as, 01 PRODUCT, 0N CATEGORY
+CATEGORY: _code, name, subtitle, picture, home order

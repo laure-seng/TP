@@ -1,0 +1,4 @@
+Refaire la capture d ecran o news 
+head : manque lang=fr, viewport tata pour le responsive
+verifier ds le css que les px st remplacés par des rem em
+font size italic ??? à rectifier

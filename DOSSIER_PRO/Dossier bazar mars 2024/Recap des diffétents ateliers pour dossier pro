@@ -1,0 +1,81 @@
+D'après Clara
+
+=====================================================================
+Saison 1
+
+Voici la liste des challenges que nous avons identifiés comme pertinents pour figurer dans le dossier pro. Rappel, ça n’est pas un problème si une activité ne couvre pas entièrement une CP, il est possible d’en cumuler plusieurs.
+
+AT 1 – CP 3 – Réaliser des interfaces utilisateurs statiques web ou web mobile :
+Hero Corp, challenge S01E03
+Atelier O’news attention de bien préciser les condition de développement, notamment le pair-programming et votre rôle dans chaque morceau de code présenté
+======================
+Saison 2
+
+Voici la liste des challenges que nous avons identifiés comme pertinents pour figurer dans le dossier pro. Rappel, ça n’est pas un problème si une activité ne couvre pas entièrement une CP, il est possible d’en cumuler plusieurs.
+
+AT 2 – Développer la partie back-end d’une application web ou web mobile
+CP 7 – Développer les composants métiers côté serveur :
+O’to école, O’ssurance (challenges GET/POST S01E05)
+Atelier O’news attention de bien préciser les condition de développement, notamment le pair-programming et votre rôle dans chaque morceau de code présenté.
+ 
+===============
+Saison 3
+
+Voici la liste des challenges que nous avons identifiés comme pertinents pour figurer dans le dossier pro. Rappel, ça n’est pas un problème si une activité ne couvre pas entièrement une CP, il est possible d’en cumuler plusieurs.
+
+AT1 – CP 4 – Développer la partie dynamique des interfaces utilisateur web ou web mobile :
+projet Trip O’dvisor, attention de bien préciser les condition de développement, notamment le pair-programming et votre rôle dans chaque morceau de code présenté.
+ 
+
+Saison 4
+
+Voici la liste des challenges que nous avons identifiés comme pertinents pour figurer dans le dossier pro.
+
+AT 1 – CP 2 – Maquetter des interfaces utilisateurs web ou web mobile
+AT 1 – CP 3 – Réaliser des interfaces utilisateurs statique web ou web mobile
+AT 2 – CP 7 – Développer des composants métier coté serveur
+Projet O’blog
+
+
+
+SAISON 5
+
+Voici la liste des compétences que nous avons identifiés comme pertinentes pour figurer dans le dossier pro en utilisant oShop :
+
+AT 1 – CP 4 – Développer la partie dynamique des interfaces utilisateur web ou web mobile
+AT 2 – CP 5 – Mettre en place une base de données relationnelle
+AT 2 – CP 6 – Développer des composants d’accès aux données SQL et NoSQL
+AT 2 – CP 7 – Développer des composants métier coté serveur
+cf trello user stories user cases
+
+
+
+SAISON 6
+
+AT 2 – CP 7 – Développer les composants métiers coté serveur
+AT 2 – CP 6 – Développer des composants d’accès aux données SQL et NoSQL,
+AT 2 – CP 5 – Mettre en place une base de données relationnelle
+Projet O’shop (qui sera continué sur la saison prochaine)
+Parcours S06
+
+
+SAISON 7
+
+Voici la liste des challenges que nous avons identifiés comme pertinents pour figurer dans le dossier pro.
+
+AT 2 – CP 7 – Développer des composants métier coté serveur (tout ce qui concerne l’application, le projet),
+AT 2 – CP 6 – Développer les composants d’accès aux données SQL et NoSQL (ici, usage et configuration de l’ORM),
+AT 2 – CP 5 – Mettre en place une base de données relationnelles,
+AT 1 – CP 4 – Développer la partie dynamique des interfaces utilisateur Web ou Web mobile.
+Projet Todolist
+Parcours : critiques de jeux vidéo
+
+
+
+SAISON 8
+
+Voici la liste des compétences que nous avons identifiés comme pertinentes pour figurer dans le dossier pro.
+
+AT1 – CP1 : Installer et configurer son environnement de travail en fonction du projet web ou web mobile => Utillisation de Docker en local
+AT2 – CP5 : Mettre en place une base de donnée relationnelle => Conteneurisation du moteur de BDD avec Docker
+AT2 – CP8 : Documenter le déploiement d’une application dynamique web ou web mobile => Les Dockerfile et compose.yaml peuvent faire office de documentation

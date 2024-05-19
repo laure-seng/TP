@@ -1,0 +1,13 @@
+Afin de réalise cette maquette, nous avon sutilisé le framework CSS Bootstrap qui fournit tou tun éventail de class déjà constituées qui permettennt de mettre en place une mise eb forme rapidement avec des composants déjà interactifs même grâce aux focntionnalités JS intégrées.
+Dan sl'exemple du fichier ci-dessous, nous avons réalisé un section sur le côté aside graĉe aux classes de Bootsrap : utilsiation de la class pour le champ de rechercge input-group
+
+
+card l'élement card crée un encadrement
+list-group list-group-flush pour la création d'un tableau d'une liste
+
+
+"list-inline pour les li:ens réseaux sociaux  du footer
+parler des tailles edt du système de grille et du responsive
+
+Le main a été lacé dans un container qui va permettre d'uitiliser la grid de bootstrap
+Bootstrap séparerd par défaut la largeur en 12. Selon des breakpoints qui correspondent à des akrgeurs d'écrans, on peut spécifier la largeurs de nos éléments selon les breakpoints exp col-lg-9 l'"ékélent ne prendra que 9 collones sur écrans larges.
