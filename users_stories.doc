@@ -1,0 +1,54 @@
+Authentification
+- En tant que USER je veux m’authentifier afin d’accéder aux fonctionnalités qui me sont réservées
+
+Répertoire client
+- En tant que USER je veux consulter le répertoire client afin d’obtenir des informations sur les clients.
+- En tant que USER je veux créer une fiche client afin d’ajouter un client dans le répertoire client.
+- En tant que USER je veux modifier une fiche client afin de mettre à jour des informations liées au client.
+- En tant que USER je veux supprimer une fiche client afin de nettoyer le répertoire client
+
+Répertoire textile
+- En tant que USER je veux consulter le répertoire textile afin d’obtenir des informations.
+- En tant que USER je veux créer une fiche textile afin d’ajouter un textile dans le répertoire textile.
+- En tant que USER je veux modifier une fiche textile afin de mettre à jour des informations liées au textile.
+- En tant que USER je veux supprimer une fiche textile afin de nettoyer le répertoire textile
+
+Répertoire broderie
+- En tant que USER je veux consulter le répertoire broderie afin d’obtenir des informations.
+- En tant que USER je veux créer une fiche broderie afin d’ajouter une broderie dans le répertoire broderie.
+- En tant que USER je veux modifier une fiche broderie afin de mettre à jour des informations liées au broderie.
+- En tant que USER je veux supprimer une fiche broderie afin de nettoyer le répertoire broderie
+
+Devis
+- En tant que USER je veux consulter les devis afin d’obtenir des informations.
+- En tant que USER je veux créer un devis afin d'enregistrer une nouvelle demande client
+- En tant que USER je veux modifier un devis afin de mettre à jour une demande client
+- En tant que USER je veux supprimer un devis afin d’annuler une demande client
+- En tant que USER je veux lier un client au devis afin d’assigner le client à la demande
+- En tant que USER je veux créer un produit dans le devis afin de renseigner le contenu de la demande client.
+- En tant que USER je veux modifier un produit du devis afin de mettre à jour le contenu de la demande client.
+- En tant que USER je veux supprimer un produit du devis afin d’annuler le contenu de la demande client.
+- En tant que USER je veux consulter le montant total du devis afin d’apprécier la pertinence de mon chiffrage
+- En tant que USER je veux pouvoir rechercher un client afin de lier facilement le client au devis
+- En tant que USER je veux pouvoir rechercher un textile afin de lier facilement le textile au devis
+- En tant que USER je veux pouvoir rechercher une broderie afin de lier facilement la broderie au devis
+
+Commande
+- En tant que USER je veux valider le devis afin de le passer en commande.
+- En tant que USER je veux consulter les commandes afin d’obtenir des informations sur les demandes clients en cours de fabrication
+- En tant que USER je veux renseigner les dates de livraisons de la commande afin de définir les délais contractuels.
+- En tant que USER je veux rétrograder la commande au stade de devis afin de modifier la demande client en cours de fabrication.
+
+Facture
+- En tant que USER je veux valider la commande afin de la passer en facture.
+- En tant que USER je veux consulter les factures afin d’obtenir des informations sur les dernières factures émises
+- En tant que USER je veux archiver une facture afin de clôturer la demande du client après paiement
+
+Rôle ADMIN
+- En tant que ADMIN je veux avoir les mêmes droits que le USER
+- En tant que ADMIN, je veux pouvoir rétrograder une facture au stade de commande afin de permettre à USER de modifier la facture
+- En tant que ADMIN, je veux pouvoir supprimer les factures afin de gérer un cas exceptionnel de suppression de facture
+- En tant que ADMIN, je veux pouvoir consulter des utilisateurs afin d’obtenir des information sur tous les utilisateurs
+- En tant que ADMIN, je veux pouvoir créer des utilisateurs afin d’intégrer une nouvelle personne à l’équipe commerciale
+- En tant que ADMIN, je veux pouvoir modifier des utilisateurs afin de mettre à jour les informations des utilisateurs
+- En tant que ADMIN, je veux pouvoir supprimer des utilisateurs afin de nettoyer le répertoire des utilisateurs en cas de départ d’un employé
