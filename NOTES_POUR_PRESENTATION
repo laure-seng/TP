@@ -1,0 +1,33 @@
+1 : moi / idée du projet / PME broderie /remplacer excel
+2 dire que cest déployé
+3 définir ERP, fonctionnalité limitée au devis
+lister catalogues : textile broderie client produit devis
+4 limites de un mois 9h17h
+5 user story textile broderie client produit devis
+6 résumer le scénario user
+7 technos front : composants props state SPA AJAX
+redux store
+lib complémentaires(axios)  linter formater
+vite js bundler
+back maker composants httpFoundation,  ORM (entites validations dql anntationsot    migration)
+SGBDR MariaDB
+Github pateforme d'hébergement de repo
+9 Figma rappelr desktop priorité - zoning - légendes 
+10 responsive 
+17 composants->parler de MUI, du + petit au + greand, props pour réutiliser les composants 
+20cmap filter() , rendu conditionnel avec des ternaires, utilisation des opérateurs logiques && ||
+22 nested css, variables css
+23 theme dans app.jsx
+
+
+
+
+30 API endpoints
+31 Mocodo entite propriété relation cardinalité
+32
+36 MVC
+38 introduire la notion de composant métier
+39 rappeler les 4 arg de méth json() de l'AbstractController
+
+XSS CSRF  xss injection SQL
+
